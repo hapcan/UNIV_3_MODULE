@@ -7,4 +7,4 @@ Device webpage: http://hapcan.com/devices/universal/univ_3/
 
 Hardware created in Eagle PCB Software http://www.cadsoftusa.com/
 
-Firmware of any UNIV 3 device can be downloaded into the module
+Firmware of any UNIV 3 device can be uploaded into the module
